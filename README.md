@@ -23,3 +23,4 @@ Agora que você já está com o template clonado, e pronto para continuar, você
 ---
 
 By AllanCoder 🚀
+Instagram: @allan.coder
